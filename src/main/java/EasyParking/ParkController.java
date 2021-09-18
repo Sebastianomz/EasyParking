@@ -9,7 +9,7 @@ package EasyParking;
  *
  * @author SISTEMAS
  */
-public class Main {
+public class ParkController {
 
     /**
      * @param args the command line arguments
